@@ -1,0 +1,20 @@
+.cardDiv {
+  margin: 15px;
+  display: inline-block;
+}
+img {
+  width: 150px;
+  height: 150px;
+  margin-left: 70px;
+}
+
+td {
+  width: 200px;
+  border: solid darkslategray 2px;
+}
+
+th {
+  width: 200px;
+
+  border: solid darkslategray 2px;
+}
